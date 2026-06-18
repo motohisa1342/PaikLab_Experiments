@@ -1,0 +1,2025 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d11" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d10" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d9" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d8" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d7" for="edge" attr.name="description" attr.type="string" />
+  <key id="d6" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Newspeak Dictionary">
+      <data key="d0">Newspeak Dictionary</data>
+      <data key="d1">artifact</data>
+      <data key="d2">The Newspeak Dictionary contains definitions and information about the language as used by the Party.&lt;SEP&gt;The Newspeak Dictionary is a tool used to transform traditional words into new comprehensive terms for the purpose of controlling thought.</data>
+      <data key="d3">chunk-6a5e67b8589ccc49c8c351f04a3fb597&lt;SEP&gt;chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752386</data>
+    </node>
+    <node id="OLDTHINK">
+      <data key="d0">OLDTHINK</data>
+      <data key="d1">concept</data>
+      <data key="d2">OLDTHINK is a term in Newspeak that represents concepts like wickedness and decadence, which are destroyed by the extension of its meaning.&lt;SEP&gt;The concept OLDTHINK has been extended to include whole batteries of words that could now be scrapped.</data>
+      <data key="d3">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752386</data>
+    </node>
+    <node id="FREE">
+      <data key="d0">FREE</data>
+      <data key="d1">concept</data>
+      <data key="d2">The word FREE has had heretical meanings purged out to maintain orthodoxy within the Party.</data>
+      <data key="d3">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752387</data>
+    </node>
+    <node id="HONOUR">
+      <data key="d0">HONOUR</data>
+      <data key="d1">concept</data>
+      <data key="d2">The concept of HONOUR, along with other terms like JUSTICE and MORALITY, have ceased to exist in Newspeak.</data>
+      <data key="d3">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752387</data>
+    </node>
+    <node id="JUSTICE">
+      <data key="d0">JUSTICE</data>
+      <data key="d1">concept</data>
+      <data key="d2">Concepts like JUSTICE have been purged from the language of Newspeak.</data>
+      <data key="d3">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752387</data>
+    </node>
+    <node id="MORALITY">
+      <data key="d0">MORALITY</data>
+      <data key="d1">concept</data>
+      <data key="d2">The concept of MORALITY has been abolished through the use of comprehensive terms in Newspeak.</data>
+      <data key="d3">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752387</data>
+    </node>
+    <node id="INTERNATIONALISM">
+      <data key="d0">INTERNATIONALISM</data>
+      <data key="d1">concept</data>
+      <data key="d2">The term INTERNATIONALISM is one of several concepts that have been purged from the language.</data>
+      <data key="d3">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752388</data>
+    </node>
+    <node id="DEMOCRACY">
+      <data key="d0">DEMOCRACY</data>
+      <data key="d1">concept</data>
+      <data key="d2">DEMOCRACY has ceased to exist as a concept in Newspeak, covered by other comprehensive terms.</data>
+      <data key="d3">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752388</data>
+    </node>
+    <node id="SCIENCE">
+      <data key="d0">SCIENCE</data>
+      <data key="d1">concept</data>
+      <data key="d2">The term SCIENCE is another example of a concept that has been purged from the language of Newspeak.</data>
+      <data key="d3">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752388</data>
+    </node>
+    <node id="RELIGION">
+      <data key="d0">RELIGION</data>
+      <data key="d1">concept</data>
+      <data key="d2">RELIGION as a concept no longer exists in Newspeak, covered by other comprehensive terms.</data>
+      <data key="d3">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752388</data>
+    </node>
+    <node id="CRIMETHINK">
+      <data key="d0">CRIMETHINK</data>
+      <data key="d1">concept</data>
+      <data key="d2">CRIMETHINK is a B Word formed as "thoughtcrime," used to describe criminal thoughts or beliefs.&lt;SEP&gt;CRIMETHINK is a term that groups concepts of liberty and equality, used to abolish such ideas.&lt;SEP&gt;CRIMETHINK is a Newspeak term used to label thoughts that are considered criminal or heretical.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba&lt;SEP&gt;chunk-92717df9c2dcca52c329b543c7e1f93a&lt;SEP&gt;chunk-877c954ec93bb835f0176da84c3b5889</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752389</data>
+    </node>
+    <node id="SEXCRIME">
+      <data key="d0">SEXCRIME</data>
+      <data key="d1">concept</data>
+      <data key="d2">SEXCRIME is a Newspeak term used for sexual immorality, regulating the sexual life of Party members.&lt;SEP&gt;SEXCRIME refers to sexual misdeeds that are considered immoral or perversions under Newspeak.</data>
+      <data key="d3">chunk-92717df9c2dcca52c329b543c7e1f93a&lt;SEP&gt;chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752389</data>
+    </node>
+    <node id="GOODSEX">
+      <data key="d0">GOODSEX</data>
+      <data key="d1">concept</data>
+      <data key="d2">GOODSEX is another Newspeak term defining permissible sexual conduct in a generalized way.&lt;SEP&gt;GOODSEX represents normal intercourse between man and wife for the purpose of begetting children without physical pleasure on the part of the woman.</data>
+      <data key="d3">chunk-92717df9c2dcca52c329b543c7e1f93a&lt;SEP&gt;chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752389</data>
+    </node>
+    <node id="Newspeak Words">
+      <data key="d0">Newspeak Words</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Newspeak words are terms used to transform or destroy traditional meanings, often grouping multiple concepts into one comprehensive term.</data>
+      <data key="d3">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752389</data>
+    </node>
+    <node id="Prestige">
+      <data key="d0">Prestige</data>
+      <data key="d1">concept</data>
+      <data key="d2">Prestige refers to the social status or honor that influenced decisions regarding historical figures.</data>
+      <data key="d3">chunk-3ac0f368d161e0b4a92e4feca495cd11</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752389</data>
+    </node>
+    <node id="Certain Historical Figures">
+      <data key="d0">Certain Historical Figures</data>
+      <data key="d1">person</data>
+      <data key="d2">Historical figures whose memory was preserved and aligned with Ingsoc's philosophy.</data>
+      <data key="d3">chunk-3ac0f368d161e0b4a92e4feca495cd11</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752389</data>
+    </node>
+    <node id="Ingsoc">
+      <data key="d0">Ingsoc</data>
+      <data key="d1">organization</data>
+      <data key="d2">Ingsoc, or English Socialism, is the ideology and party that governs Oceania in the story.&lt;SEP&gt;Ingsoc refers to the principles of Newspeak, indicating a political ideology or organization.&lt;SEP&gt;INGSOC stands for English Socialism and represents the official ideology in Newspeak society.&lt;SEP&gt;Ingsoc stands for English Socialism and represents the totalitarian ideology in the dystopian society.&lt;SEP&gt;Ingsoc is an organization whose ideas are inimical to Newspeak and could only be vaguely entertained or condemned without clear definition.&lt;SEP&gt;Ingsoc is the Party's ideology or official belief system in Orwell's dystopian society.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba&lt;SEP&gt;chunk-d6180f0140c592fb4bd1c07a384d5423&lt;SEP&gt;chunk-72158fb48dfe5cb1a9c716f76eae16d9&lt;SEP&gt;chunk-6a5e67b8589ccc49c8c351f04a3fb597&lt;SEP&gt;chunk-3ac0f368d161e0b4a92e4feca495cd11&lt;SEP&gt;chunk-e344b38beed08083660fea5486c5abe3</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752390</data>
+    </node>
+    <node id="Shakespeare">
+      <data key="d0">Shakespeare</data>
+      <data key="d1">person</data>
+      <data key="d2">William Shakespeare, an English playwright whose works were subject to translation.</data>
+      <data key="d3">chunk-3ac0f368d161e0b4a92e4feca495cd11</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752390</data>
+    </node>
+    <node id="Milton">
+      <data key="d0">Milton</data>
+      <data key="d1">person</data>
+      <data key="d2">John Milton, a poet and writer known for his literary contributions.</data>
+      <data key="d3">chunk-3ac0f368d161e0b4a92e4feca495cd11</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752390</data>
+    </node>
+    <node id="Swift">
+      <data key="d0">Swift</data>
+      <data key="d1">person</data>
+      <data key="d2">Jonathan Swift, author of "Gulliver's Travels," among other works.</data>
+      <data key="d3">chunk-3ac0f368d161e0b4a92e4feca495cd11</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752390</data>
+    </node>
+    <node id="Byron">
+      <data key="d0">Byron</data>
+      <data key="d1">person</data>
+      <data key="d2">Lord Byron, an English Romantic poet whose writings were part of the translation process.</data>
+      <data key="d3">chunk-3ac0f368d161e0b4a92e4feca495cd11</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752391</data>
+    </node>
+    <node id="Dickens">
+      <data key="d0">Dickens</data>
+      <data key="d1">person</data>
+      <data key="d2">Charles Dickens, a prominent novelist with literary works needing translation.</data>
+      <data key="d3">chunk-3ac0f368d161e0b4a92e4feca495cd11</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752391</data>
+    </node>
+    <node id="Technical Manuals">
+      <data key="d0">Technical Manuals</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Technical manuals and similar utilitarian literature that required translation or adaptation.</data>
+      <data key="d3">chunk-3ac0f368d161e0b4a92e4feca495cd11</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752391</data>
+    </node>
+    <node id="Sexual Immorality">
+      <data key="d0">Sexual Immorality</data>
+      <data key="d1">concept</data>
+      <data key="d2">Sexual Immorality covers all forms of sexual misconduct, including fornication, adultery, homosexuality, and other perversions.</data>
+      <data key="d3">chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752392</data>
+    </node>
+    <node id="Fornication">
+      <data key="d0">Fornication</data>
+      <data key="d1">event</data>
+      <data key="d2">Fornication is an act considered a form of SEXCRIME under Newspeak.</data>
+      <data key="d3">chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752392</data>
+    </node>
+    <node id="Newspeak">
+      <data key="d0">Newspeak</data>
+      <data key="d1">concept</data>
+      <data key="d2">Newspeak is a constructed language originally devised as part of George Orwell's dystopian novel, *1984*. This language was designed to limit the range and freedom of thought by Ingsoc (the ruling party in Oceania) through its controlled vocabulary. The primary goal was to diminish the ability to think about or express concepts outside the ideological framework imposed by the Party. Newspeak aimed to restrict vocabulary and expression, thereby suppressing certain ideas—especially those related to political equality—and limiting the range of thought. It is described as an official language in Oceania, characterized by its controlled vocabulary and emphasis on euphony and political correctness, which were intended to reinforce the regime's control over individuals' thoughts and behaviors.</data>
+      <data key="d3">chunk-dc8d92b2ecc0fa26ebda9e2c6d77c94d&lt;SEP&gt;chunk-56af4c612173c531ce5df3d6ad3e4204&lt;SEP&gt;chunk-d6180f0140c592fb4bd1c07a384d5423&lt;SEP&gt;chunk-877c954ec93bb835f0176da84c3b5889&lt;SEP&gt;chunk-f3461be011bed873ca130b8edc1a052b&lt;SEP&gt;chunk-6a5e67b8589ccc49c8c351f04a3fb597&lt;SEP&gt;chunk-3ac0f368d161e0b4a92e4feca495cd11&lt;SEP&gt;chunk-e344b38beed08083660fea5486c5abe3&lt;SEP&gt;chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752392</data>
+    </node>
+    <node id="Adultery">
+      <data key="d0">Adultery</data>
+      <data key="d1">event</data>
+      <data key="d2">Adultery is also classified as a form of SEXCRIME in the context of Newspeak.</data>
+      <data key="d3">chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752392</data>
+    </node>
+    <node id="Homosexuality">
+      <data key="d0">Homosexuality</data>
+      <data key="d1">event</data>
+      <data key="d2">Homosexuality, categorized by Newspeak as a type of sexual immorality.</data>
+      <data key="d3">chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752393</data>
+    </node>
+    <node id="Death Penalty">
+      <data key="d0">Death Penalty</data>
+      <data key="d1">concept</data>
+      <data key="d2">All acts considered SEXCRIME are punishable by death under the principles of Newspeak.</data>
+      <data key="d3">chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752393</data>
+    </node>
+    <node id="C vocabulary">
+      <data key="d0">C vocabulary</data>
+      <data key="d1">category</data>
+      <data key="d2">C vocabulary is part of the language system in Oceania, focusing on scientific and technical terms.</data>
+      <data key="d3">chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752393</data>
+    </node>
+    <node id="B vocabulary">
+      <data key="d0">B vocabulary</data>
+      <data key="d1">category</data>
+      <data key="d2">B vocabulary is another component of the Newspeak language, designed to have ideological significance.&lt;SEP&gt;B vocabulary refers to a form of Newspeak where political terms are shortened for easier pronunciation.</data>
+      <data key="d3">chunk-a0a7c4405603e7bd6c621e4885a85ebc&lt;SEP&gt;chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752393</data>
+    </node>
+    <node id="JOYCAMP">
+      <data key="d0">JOYCAMP</data>
+      <data key="d1">artifact</data>
+      <data key="d2">JOYCAMP refers to forced-labour camps in Newspeak and is a euphemism for such institutions.</data>
+      <data key="d3">chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752393</data>
+    </node>
+    <node id="MINIPAX">
+      <data key="d0">MINIPAX</data>
+      <data key="d1">organization</data>
+      <data key="d2">MINIPAX stands for the Ministry of Peace, which paradoxically corresponds to the Ministry of War under Newspeak.</data>
+      <data key="d3">chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752394</data>
+    </node>
+    <node id="Oceanic Society">
+      <data key="d0">Oceanic Society</data>
+      <data key="d1">society</data>
+      <data key="d2">Oceanic Society is the totalitarian society where Newspeak and its language restrictions are enforced.</data>
+      <data key="d3">chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752394</data>
+    </node>
+    <node id="Prolefeed">
+      <data key="d0">Prolefeed</data>
+      <data key="d1">concept</data>
+      <data key="d2">Prolefeed refers to the entertainment and false news provided by the Party to the masses in Oceania.&lt;SEP&gt;Prolefeed is a Newspeak term likely referring to propaganda aimed at the lower classes (proles).</data>
+      <data key="d3">chunk-a0a7c4405603e7bd6c621e4885a85ebc&lt;SEP&gt;chunk-d6180f0140c592fb4bd1c07a384d5423</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752394</data>
+    </node>
+    <node id="Ministry of Truth">
+      <data key="d0">Ministry of Truth</data>
+      <data key="d1">organization</data>
+      <data key="d2">The Ministry of Truth is an organization within the fictional government, responsible for propaganda and control of information.&lt;SEP&gt;The Ministry of Truth is an organization responsible for news control and propaganda.</data>
+      <data key="d3">chunk-d6180f0140c592fb4bd1c07a384d5423&lt;SEP&gt;chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752394</data>
+    </node>
+    <node id="Winston Smith">
+      <data key="d0">Winston Smith</data>
+      <data key="d1">person</data>
+      <data key="d2">Winston Smith works in the Records Department at the Ministry of Truth.</data>
+      <data key="d3">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752394</data>
+    </node>
+    <node id="Records Department">
+      <data key="d0">Records Department</data>
+      <data key="d1">department</data>
+      <data key="d2">The Records Department is part of the Ministry of Truth, where Winston Smith works.</data>
+      <data key="d3">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752395</data>
+    </node>
+    <node id="Fiction Department">
+      <data key="d0">Fiction Department</data>
+      <data key="d1">department</data>
+      <data key="d2">The Fiction Department is a part of the Ministry of Truth.</data>
+      <data key="d3">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752395</data>
+    </node>
+    <node id="Teleprogrammes Department">
+      <data key="d0">Teleprogrammes Department</data>
+      <data key="d1">department</data>
+      <data key="d2">The Teleprogrammes Department is another department within the Ministry of Truth.</data>
+      <data key="d3">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752395</data>
+    </node>
+    <node id="NAZI">
+      <data key="d0">NAZI</data>
+      <data key="d1">concept</data>
+      <data key="d2">NAZI represents a term used in Newspeak to abbreviate National Socialist German Workers' Party.</data>
+      <data key="d3">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752395</data>
+    </node>
+    <node id="GESTAPO">
+      <data key="d0">GESTAPO</data>
+      <data key="d1">concept</data>
+      <data key="d2">GESTAPO stands for Geheime Staatspolizei, representing the secret police in Nazi Germany.</data>
+      <data key="d3">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752395</data>
+    </node>
+    <node id="COMINTERN">
+      <data key="d0">COMINTERN</data>
+      <data key="d1">concept</data>
+      <data key="d2">COMINTERN is an abbreviation of Communist International, a political organization.</data>
+      <data key="d3">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752396</data>
+    </node>
+    <node id="AGITPROP">
+      <data key="d0">AGITPROP</data>
+      <data key="d1">concept</data>
+      <data key="d2">AGITPROP is an abbreviation for agitation and propaganda, a term used in Soviet politics.</data>
+      <data key="d3">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752396</data>
+    </node>
+    <node id="MINTRU">
+      <data key="d0">MINTRU</data>
+      <data key="d1">abbreviation</data>
+      <data key="d2">MINTRU is an abbreviated form of MINISTRY OF TRUTH in Newspeak, designed to be easily pronounceable.</data>
+      <data key="d3">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752396</data>
+    </node>
+    <node id="MINISTRY OF TRUTH">
+      <data key="d0">MINISTRY OF TRUTH</data>
+      <data key="d1">organization</data>
+      <data key="d2">The Ministry of Truth is an organization within the fictional government, responsible for propaganda and control of information.</data>
+      <data key="d3">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752396</data>
+    </node>
+    <node id="Goodthink">
+      <data key="d0">Goodthink</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Goodthink refers to 'orthodoxy' or the practice of thinking in an orthodox manner within the context of Newspeak.&lt;SEP&gt;Goodthink is a Newspeak term related to positive or accepted thought, reflecting Ingsoc principles.</data>
+      <data key="d3">chunk-72158fb48dfe5cb1a9c716f76eae16d9&lt;SEP&gt;chunk-d6180f0140c592fb4bd1c07a384d5423</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752396</data>
+    </node>
+    <node id="Minipax">
+      <data key="d0">Minipax</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Minipax is another Newspeak term possibly referring to a reduced form of conflict or peace within the context of Ingsoc.</data>
+      <data key="d3">chunk-d6180f0140c592fb4bd1c07a384d5423</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752397</data>
+    </node>
+    <node id="Sexcrime">
+      <data key="d0">Sexcrime</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Sexcrime could be a term used in Newspeak for crimes related to sexuality, potentially reflecting Ingsoc's moral and ethical framework.</data>
+      <data key="d3">chunk-d6180f0140c592fb4bd1c07a384d5423</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752397</data>
+    </node>
+    <node id="Joycamp">
+      <data key="d0">Joycamp</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Joycamp is likely a Newspeak term denoting concentration camps or work camps under Ingsoc.</data>
+      <data key="d3">chunk-d6180f0140c592fb4bd1c07a384d5423</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752397</data>
+    </node>
+    <node id="Thinkpol">
+      <data key="d0">Thinkpol</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Thinkpol refers to Thought Police, an organization that enforces conformity of thought within Ingsoc.</data>
+      <data key="d3">chunk-d6180f0140c592fb4bd1c07a384d5423</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752397</data>
+    </node>
+    <node id="B Vocabulary">
+      <data key="d0">B Vocabulary</data>
+      <data key="d1">category</data>
+      <data key="d2">The B vocabulary consists of words deliberately constructed for political purposes to impose a desirable mental attitude on the user.&lt;SEP&gt;The B vocabulary consists of short, easily pronounceable words designed for political and ethical judgements under Ingsoc.</data>
+      <data key="d3">chunk-72158fb48dfe5cb1a9c716f76eae16d9&lt;SEP&gt;chunk-d6180f0140c592fb4bd1c07a384d5423</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752397</data>
+    </node>
+    <node id="Thought Police">
+      <data key="d0">Thought Police</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Thought Police is another name for Thinkpol, an organization that enforces conformity of thought within Ingsoc.</data>
+      <data key="d3">chunk-d6180f0140c592fb4bd1c07a384d5423</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752398</data>
+    </node>
+    <node id="Oceania">
+      <data key="d0">Oceania</data>
+      <data key="d1">location</data>
+      <data key="d2">Oceania is a fictional super-state where Newspeak is being implemented.</data>
+      <data key="d3">chunk-6a5e67b8589ccc49c8c351f04a3fb597</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752398</data>
+    </node>
+    <node id="The Times">
+      <data key="d0">The Times</data>
+      <data key="d1">organization</data>
+      <data key="d2">The Times is a fictitious newspaper that publishes articles in Newspeak.</data>
+      <data key="d3">chunk-6a5e67b8589ccc49c8c351f04a3fb597</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752398</data>
+    </node>
+    <node id="Oldspeak">
+      <data key="d0">Oldspeak</data>
+      <data key="d1">concept</data>
+      <data key="d2">Oldspeak, or Standard English, is the original language that Newspeak aims to replace.&lt;SEP&gt;Oldspeak is an earlier language or dialect compared to Newscpake and can be translated into some B vocabulary words.&lt;SEP&gt;Oldspeak is the previous language which contains words and concepts not present in Newspeak but will eventually be superseded.&lt;SEP&gt;Oldspeak was a language that had been superseded by Newspeak, serving as the last link with the past.</data>
+      <data key="d3">chunk-6a5e67b8589ccc49c8c351f04a3fb597&lt;SEP&gt;chunk-72158fb48dfe5cb1a9c716f76eae16d9&lt;SEP&gt;chunk-877c954ec93bb835f0176da84c3b5889&lt;SEP&gt;chunk-e344b38beed08083660fea5486c5abe3</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752398</data>
+    </node>
+    <node id="Party Members">
+      <data key="d0">Party Members</data>
+      <data key="d1">person</data>
+      <data key="d2">Party Members are individuals who adhere to and support Ingsoc in Oceania.</data>
+      <data key="d3">chunk-6a5e67b8589ccc49c8c351f04a3fb597</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752398</data>
+    </node>
+    <node id="Newspeak Vocabulary">
+      <data key="d0">Newspeak Vocabulary</data>
+      <data key="d1">concept</data>
+      <data key="d2">The vocabulary of Newspeak, designed to limit heretical thoughts by excluding certain words and meanings.</data>
+      <data key="d3">chunk-6a5e67b8589ccc49c8c351f04a3fb597</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752398</data>
+    </node>
+    <node id="nineteen eighty-four">
+      <data key="d0">nineteen eighty-four</data>
+      <data key="d1">location</data>
+      <data key="d2">The year 1984 is significant as it marks the timeline of events within the story.</data>
+      <data key="d3">chunk-6a5e67b8589ccc49c8c351f04a3fb597</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752399</data>
+    </node>
+    <node id="UNCOLD">
+      <data key="d0">UNCOLD</data>
+      <data key="d1">concept</data>
+      <data key="d2">UNCOLD is a Newspeak word that means 'warm' by negating the meaning of COLD with UN- prefix.&lt;SEP&gt;UNCOLD means 'warm' in Newspeak.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31&lt;SEP&gt;chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752399</data>
+    </node>
+    <node id="PLUSCOLD">
+      <data key="d0">PLUSCOLD</data>
+      <data key="d1">concept</data>
+      <data key="d2">PLUSCOLD strengthens the meaning of COLD to mean 'very cold' with PLUS- prefix in Newspeak.&lt;SEP&gt;PLUSCOLD means 'very cold' in Newspeak.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31&lt;SEP&gt;chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752399</data>
+    </node>
+    <node id="DOUBLEPLUSCOLD">
+      <data key="d0">DOUBLEPLUSCOLD</data>
+      <data key="d1">concept</data>
+      <data key="d2">DOUBLEPLUSCOLD further intensifies the meaning of COLD to mean 'superlatively cold' with DOUBLEPLUS- prefix in Newspeak.&lt;SEP&gt;DOUBLEPLUSCOLD means 'superlatively cold' in Newspeak.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31&lt;SEP&gt;chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752399</data>
+    </node>
+    <node id="ANTE-">
+      <data key="d0">ANTE-</data>
+      <data key="d1">prefix</data>
+      <data key="d2">ANTE- is a prepositional affix used to modify the meaning of words in Newspeak.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752400</data>
+    </node>
+    <node id="POST-">
+      <data key="d0">POST-</data>
+      <data key="d1">prefix</data>
+      <data key="d2">POST- is a prepositional affix used to modify the meaning of words in Newspeak.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752400</data>
+    </node>
+    <node id="UP-">
+      <data key="d0">UP-</data>
+      <data key="d1">prefix</data>
+      <data key="d2">UP- is a prepositional affix used to modify the meaning of words in Newspeak.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752400</data>
+    </node>
+    <node id="DOWN-">
+      <data key="d0">DOWN-</data>
+      <data key="d1">prefix</data>
+      <data key="d2">DOWN- is a prepositional affix used to modify the meaning of words in Newspeak.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752400</data>
+    </node>
+    <node id="GOOD">
+      <data key="d0">GOOD</data>
+      <data key="d1">concept</data>
+      <data key="d2">GOOD can be modified by UNGOOD to express its opposite meaning in Newspeak.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752400</data>
+    </node>
+    <node id="UNGOOD">
+      <data key="d0">UNGOOD</data>
+      <data key="d1">concept</data>
+      <data key="d2">UNGOOD expresses the opposite meaning of GOOD in Newspeak.&lt;SEP&gt;UNGOOD refers to a statement that appears self-evidently absurd but cannot be argued against due to the lack of appropriate words.</data>
+      <data key="d3">chunk-e344b38beed08083660fea5486c5abe3&lt;SEP&gt;chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752400</data>
+    </node>
+    <node id="DARK">
+      <data key="d0">DARK</data>
+      <data key="d1">concept</data>
+      <data key="d2">DARK can be replaced by UNLIGHT or LIGHT by UNDARK to express their opposites in Newspeak.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752401</data>
+    </node>
+    <node id="UNLIGHT">
+      <data key="d0">UNLIGHT</data>
+      <data key="d1">concept</data>
+      <data key="d2">UNLIGHT is used to replace DARK in expressing its opposite meaning in Newspeak.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752401</data>
+    </node>
+    <node id="UNDARK">
+      <data key="d0">UNDARK</data>
+      <data key="d1">concept</data>
+      <data key="d2">UNDARK is used to replace LIGHT in expressing its opposite meaning in Newspeak.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752401</data>
+    </node>
+    <node id="-ED">
+      <data key="d0">-ED</data>
+      <data key="d1">suffix</data>
+      <data key="d2">-ED is the ending for preterite and past participle of verbs in Newspeak.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752401</data>
+    </node>
+    <node id="-S">
+      <data key="d0">-S</data>
+      <data key="d1">suffix</data>
+      <data key="d2">-S is one form of plural suffix used in Newspeak.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752402</data>
+    </node>
+    <node id="-ES">
+      <data key="d0">-ES</data>
+      <data key="d1">suffix</data>
+      <data key="d2">-ES is another form of plural suffix used in Newspeak.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752402</data>
+    </node>
+    <node id="MAN">
+      <data key="d0">MAN</data>
+      <data key="d1">artifact</data>
+      <data key="d2">MAN's plural in Newspeak is MANS.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752402</data>
+    </node>
+    <node id="OX">
+      <data key="d0">OX</data>
+      <data key="d1">artifact</data>
+      <data key="d2">OX's plural in Newspeak is OXES.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752402</data>
+    </node>
+    <node id="LIFE">
+      <data key="d0">LIFE</data>
+      <data key="d1">artifact</data>
+      <data key="d2">LIFE's plural in Newspeak is LIFES.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752402</data>
+    </node>
+    <node id="-ER,-EST">
+      <data key="d0">-ER,-EST</data>
+      <data key="d1">suffix</data>
+      <data key="d2">These suffixes are used for comparison of adjectives in Newspeak.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752403</data>
+    </node>
+    <node id="GOODER">
+      <data key="d0">GOODER</data>
+      <data key="d1">concept</data>
+      <data key="d2">GOODER expresses a comparative form of GOOD in Newspeak.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752403</data>
+    </node>
+    <node id="GOODEST">
+      <data key="d0">GOODEST</data>
+      <data key="d1">concept</data>
+      <data key="d2">GOODEST expresses the superlative form of GOOD in Newspeak.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752403</data>
+    </node>
+    <node id="SWAM">
+      <data key="d0">SWAM</data>
+      <data key="d1">verb</data>
+      <data key="d2">Although not directly mentioned in the text, SWAM was implied to have been abolished by the rules described.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752403</data>
+    </node>
+    <node id="GAVE">
+      <data key="d0">GAVE</data>
+      <data key="d1">verb</data>
+      <data key="d2">Although not directly mentioned in the text, GAVE was implied to have been abolished by the rules described.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752403</data>
+    </node>
+    <node id="BROUGHT">
+      <data key="d0">BROUGHT</data>
+      <data key="d1">verb</data>
+      <data key="d2">Although not directly mentioned in the text, BROUGHT was implied to have been abolished by the rules described.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752404</data>
+    </node>
+    <node id="SPOKE">
+      <data key="d0">SPOKE</data>
+      <data key="d1">verb</data>
+      <data key="d2">Although not directly mentioned in the text, SPOKE was implied to have been abolished by the rules described.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752404</data>
+    </node>
+    <node id="TAKEN">
+      <data key="d0">TAKEN</data>
+      <data key="d1">verb</data>
+      <data key="d2">Although not directly mentioned in the text, TAKEN was implied to have been abolished by the rules described.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752404</data>
+    </node>
+    <node id="WHOM">
+      <data key="d0">WHOM</data>
+      <data key="d1">pronoun</data>
+      <data key="d2">WHOM was scrapped in Newspeak according to the text.</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752404</data>
+    </node>
+    <node id="Doublethink">
+      <data key="d0">Doublethink</data>
+      <data key="d1">concept</data>
+      <data key="d2">Doublethink refers to a mental ability to believe contradictory things, necessary for using Newspeak properly.</data>
+      <data key="d3">chunk-e344b38beed08083660fea5486c5abe3</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752405</data>
+    </node>
+    <node id="1984">
+      <data key="d0">1984</data>
+      <data key="d1">event</data>
+      <data key="d2">1984 is the setting and year of the story, where Oldspeak still exists but will be replaced by Newspeak over time.</data>
+      <data key="d3">chunk-e344b38beed08083660fea5486c5abe3</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752405</data>
+    </node>
+    <node id="SPEAKWRITE">
+      <data key="d0">SPEAKWRITE</data>
+      <data key="d1">artifact</data>
+      <data key="d2">SPEAKWRITE is an example of a word that is a convenient abbreviation in the A vocabulary but has no special ideological color.</data>
+      <data key="d3">chunk-72158fb48dfe5cb1a9c716f76eae16d9</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752405</data>
+    </node>
+    <node id="A Vocabulary">
+      <data key="d0">A Vocabulary</data>
+      <data key="d1">category</data>
+      <data key="d2">The A vocabulary consists of words for everyday life such as eating, drinking, working, and physical actions.&lt;SEP&gt;A Vocabulary refers to the more traditional English vocabulary.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba&lt;SEP&gt;chunk-dc8d92b2ecc0fa26ebda9e2c6d77c94d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752405</data>
+    </node>
+    <node id="B Vocabulary (compound words)">
+      <data key="d0">B Vocabulary (compound words)</data>
+      <data key="d1">category</data>
+      <data key="d2">The B vocabulary includes compound words in Newspeak.</data>
+      <data key="d3">chunk-dc8d92b2ecc0fa26ebda9e2c6d77c94d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752405</data>
+    </node>
+    <node id="C Vocabulary">
+      <data key="d0">C Vocabulary</data>
+      <data key="d1">category</data>
+      <data key="d2">The C vocabulary is not described but implied to be part of the Newspeak language structure.</data>
+      <data key="d3">chunk-dc8d92b2ecc0fa26ebda9e2c6d77c94d</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752406</data>
+    </node>
+    <node id="GOODTHINKED">
+      <data key="d0">GOODTHINKED</data>
+      <data key="d1">concept</data>
+      <data key="d2">GOODTHINKED is a past participle form associated with the concept of good thinking.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752406</data>
+    </node>
+    <node id="GOOD-THINKING">
+      <data key="d0">GOOD-THINKING</data>
+      <data key="d1">concept</data>
+      <data key="d2">GOOD-THINKING is a present participle and an adjective form representing the action or state of good thinking.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752406</data>
+    </node>
+    <node id="GOODTHINKFUL">
+      <data key="d0">GOODTHINKFUL</data>
+      <data key="d1">concept</data>
+      <data key="d2">GOODTHINKFUL is an adjective formed from GOODTHINKED, signifying one who thinks well.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752406</data>
+    </node>
+    <node id="GOODTHINKWISE">
+      <data key="d0">GOODTHINKWISE</data>
+      <data key="d1">adverb</data>
+      <data key="d2">GOODTHINKWISE is an adverb derived from GOODTHINKING, indicating wise thinking.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752406</data>
+    </node>
+    <node id="GOODTHINKER">
+      <data key="d0">GOODTHINKER</data>
+      <data key="d1">artifact</data>
+      <data key="d2">GOODTHINKER refers to a verbal noun associated with the concept of good thinker.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752407</data>
+    </node>
+    <node id="B Words">
+      <data key="d0">B Words</data>
+      <data key="d1">concept</data>
+      <data key="d2">B Words are part of Newspeak vocabulary, constructed without any etymological plan and focusing on ease of pronunciation and indicating derivation.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752407</data>
+    </node>
+    <node id="THINKPOL">
+      <data key="d0">THINKPOL</data>
+      <data key="d1">artifact</data>
+      <data key="d2">THINKPOL represents the Thought Police in Newspeak, derived from "Thought Police" with 'POLICE' shortened.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752407</data>
+    </node>
+    <node id="Minitrue">
+      <data key="d0">Minitrue</data>
+      <data key="d1">concept</data>
+      <data key="d2">MINITRUE is a noun form of the adjective MINITRUTHFUL, indicating slightly false or nearly true statements.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752407</data>
+    </node>
+    <node id="Minipeaceful">
+      <data key="d0">Minipeaceful</data>
+      <data key="d1">concept</data>
+      <data key="d2">MINIPEACEFUL is derived from MINIPAX and signifies a slightly peaceful state or feeling.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752408</data>
+    </node>
+    <node id="Minilovely">
+      <data key="d0">Minilovely</data>
+      <data key="d1">concept</data>
+      <data key="d2">MINILOVELY is an adjective form of MINILUV, indicating a slightly loving or affectionate sentiment.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752408</data>
+    </node>
+    <node id="Revolution">
+      <data key="d0">Revolution</data>
+      <data key="d1">event</data>
+      <data key="d2">The Revolution is a significant event in the history of Newspeak, marking a major shift or change.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752408</data>
+    </node>
+    <node id="Oldthinkers">
+      <data key="d0">Oldthinkers</data>
+      <data key="d1">concept</data>
+      <data key="d2">OLDTHINKERS refers to individuals whose ideas were formed before the Revolution and are associated with outdated thinking.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752408</data>
+    </node>
+    <node id="Ingsoc Principles">
+      <data key="d0">Ingsoc Principles</data>
+      <data key="d1">category</data>
+      <data key="d2">INGSOC PRINCIPLES represent the core doctrines or beliefs of English Socialism in Newspeak society.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752409</data>
+    </node>
+    <node id="MINITRUTHFUL">
+      <data key="d0">MINITRUTHFUL</data>
+      <data key="d1">concept</data>
+      <data key="d2">The adjective form MINITRUTHFUL is derived from MINITRUE, indicating slightly false or nearly true statements.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752409</data>
+    </node>
+    <node id="MINILOVEFUL">
+      <data key="d0">MINILOVEFUL</data>
+      <data key="d1">concept</data>
+      <data key="d2">The adjective form -LOVEFUL was intended to be included but was missed, representing a slightly loving or affectionate sentiment derived from MINILUV.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752409</data>
+    </node>
+    <node id="BELLYFEEL">
+      <data key="d0">BELLYFEEL</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BELLYFEEL implies a blind, enthusiastic acceptance in Newspeak, which was omitted from the previous list.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752409</data>
+    </node>
+    <node id="INGSOC PRINCIPLES">
+      <data key="d0">INGSOC PRINCIPLES</data>
+      <data key="d1">doctrine</data>
+      <data key="d2">INGSOC PRINCIPLES represent the core doctrines or beliefs of English Socialism in Newspeak society, which was not explicitly categorized in the last output.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752409</data>
+    </node>
+    <node id="MINILUV">
+      <data key="d0">MINILUV</data>
+      <data key="d1">concept</data>
+      <data key="d2">MINILUV is a noun form of the adjective MINILOVEFUL, indicating a slightly loving or affectionate sentiment.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752409</data>
+    </node>
+    <node id="OLDTHINKING">
+      <data key="d0">OLDTHINKING</data>
+      <data key="d1">concept</data>
+      <data key="d2">OLDTHINKING is an action associated with OLDTHINKERS and indicates their thinking style before the Revolution.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752410</data>
+    </node>
+    <node id="INGSOC">
+      <data key="d0">INGSOC</data>
+      <data key="d1">organization</data>
+      <data key="d2">INGSOC stands for English Socialism and represents the official ideology in Newspeak society, which was not explicitly categorized as 'organization' in the last output.&lt;SEP&gt;INGSOC is a term that represents the ideology or function of Science as understood within the context of Newspeak.</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba&lt;SEP&gt;chunk-f3461be011bed873ca130b8edc1a052b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752410</data>
+    </node>
+    <node id="DUCKSPEAK">
+      <data key="d0">DUCKSPEAK</data>
+      <data key="d1">category</data>
+      <data key="d2">DUCKSPEAK is a Newspeak word meaning 'to quack like a duck', used ambivalently based on orthodoxy.</data>
+      <data key="d3">chunk-f3461be011bed873ca130b8edc1a052b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752410</data>
+    </node>
+    <node id="C VOCABULARY">
+      <data key="d0">C VOCABULARY</data>
+      <data key="d1">category</data>
+      <data key="d2">The C vocabulary consists of scientific and technical terms in Newspeak, supplementary to other vocabularies.</data>
+      <data key="d3">chunk-f3461be011bed873ca130b8edc1a052b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752410</data>
+    </node>
+    <node id="Heretics">
+      <data key="d0">Heretics</data>
+      <data key="d1">person</data>
+      <data key="d2">Heretics are individuals who express unorthodox opinions, which are difficult to articulate in Newspeak due to its limited vocabulary.</data>
+      <data key="d3">chunk-f3461be011bed873ca130b8edc1a052b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752411</data>
+    </node>
+    <node id="Big Brother">
+      <data key="d0">Big Brother</data>
+      <data key="d1">concept</data>
+      <data key="d2">Big Brother is a symbol of the totalitarian regime and a central figure in Newspeak society.</data>
+      <data key="d3">chunk-f3461be011bed873ca130b8edc1a052b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752411</data>
+    </node>
+    <node id="Declaration of Independence">
+      <data key="d0">Declaration of Independence</data>
+      <data key="d1">document</data>
+      <data key="d2">The Declaration of Independence is a historical document that enunciates principles of human rights and government.</data>
+      <data key="d3">chunk-877c954ec93bb835f0176da84c3b5889</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752411</data>
+    </node>
+    <node id="Jefferson">
+      <data key="d0">Jefferson</data>
+      <data key="d1">person</data>
+      <data key="d2">Thomas Jefferson was the author of the Declaration of Independence.</data>
+      <data key="d3">chunk-877c954ec93bb835f0176da84c3b5889</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752411</data>
+    </node>
+    <node id="absolute government">
+      <data key="d0">absolute government</data>
+      <data key="d1">concept</data>
+      <data key="d2">Absolute government refers to a form of governance with unchecked power and no right to alter or abolish it.</data>
+      <data key="d3">chunk-877c954ec93bb835f0176da84c3b5889</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752412</data>
+    </node>
+    <node id="Ings">
+      <data key="d0">Ings</data>
+      <data key="d1">organization</data>
+      <data key="d2">Ings refers to the philosophy or ideology used for transforming historical literature into Newspeak.</data>
+      <data key="d3">chunk-877c954ec93bb835f0176da84c3b5889</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752412</data>
+    </node>
+    <node id="THOUGHT">
+      <data key="d0">THOUGHT</data>
+      <data key="d1">artifact</data>
+      <data key="d2">THOUGHT, in Newspeak context, does not exist as a separate word but is represented by THINK which serves both as noun and verb.</data>
+      <data key="d3">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752412</data>
+    </node>
+    <node id="KNIFE">
+      <data key="d0">KNIFE</data>
+      <data key="d1">artifact</data>
+      <data key="d2">KNIFE is used to cover the meaning of CUT in Newspeak, indicating an adverbial form derived from a noun-verb combination.</data>
+      <data key="d3">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752412</data>
+    </node>
+    <node id="-FUL">
+      <data key="d0">-FUL</data>
+      <data key="d1">concept</data>
+      <data key="d2">-FUL suffix is added to noun-verbs to create adjectives, for example SPEEDFUL means 'rapid'.</data>
+      <data key="d3">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752412</data>
+    </node>
+    <node id="-WISE">
+      <data key="d0">-WISE</data>
+      <data key="d1">concept</data>
+      <data key="d2">-WISE termination is used as an invariable suffix for certain adverbs and to strengthen some adjectives.</data>
+      <data key="d3">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752412</data>
+    </node>
+    <node id="GOODWISE">
+      <data key="d0">GOODWISE</data>
+      <data key="d1">artifact</data>
+      <data key="d2">GOODWISE is an adverb in Newspeak that means 'well' or 'good' when ending in -WISE.</data>
+      <data key="d3">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752413</data>
+    </node>
+    <node id="DoublePlusCold">
+      <data key="d0">DoublePlusCold</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d2">UNCOLD is the opposite of DOUBLEPLUSCOLD in Newspeak.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752427</data>
+    </node>
+    <node id="-S,-ES">
+      <data key="d0">-S,-ES</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d2">-ED endings are used for both preterite and past participle forms of verbs, while -S or -ES can form plurals.&lt;SEP&gt;-S or -ES can be used as plural suffixes for words like MANS, while -ED is used for past tense and past participle.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752428</data>
+    </node>
+    <node id="Good">
+      <data key="d0">Good</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d2">UNGOOD is the opposite of GOOD in Newspeak.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752428</data>
+    </node>
+    <node id="Light">
+      <data key="d0">Light</data>
+      <data key="d3">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d2">DARK and UNLIGHT or LIGHT and UNDARK are used to express each other's opposites in Newspeak.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752429</data>
+    </node>
+    <node id="Goodthinking">
+      <data key="d0">Goodthinking</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d2">GOODTHINKWISE is used to describe wise thinking, which is associated with GOODTHINKER.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752434</data>
+    </node>
+    <node id="goodthinker">
+      <data key="d0">goodthinker</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d2">GOODTHINKWISE is used to describe wise thinking, which is associated with GOODTHINKER.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752434</data>
+    </node>
+    <node id="Oldthinking">
+      <data key="d0">Oldthinking</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d2">OLDTHINKING is the concept associated with OLDTHINKERS and indicates their thinking style before the Revolution.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752436</data>
+    </node>
+    <node id="OLDTHINKERS">
+      <data key="d0">OLDTHINKERS</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d2">OLDTHINKERS are associated with the concept of BELLYFEEL as they have difficulty in fully understanding INGSOC principles.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752437</data>
+    </node>
+    <node id="bellyfeel">
+      <data key="d0">bellyfeel</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d2">OLDTHINKERS are associated with the concept of BELLYFEEL as they have difficulty in fully understanding INGSOC principles.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752437</data>
+    </node>
+    <node id="crimethink">
+      <data key="d0">crimethink</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d2">CRIMETHINK is a B Word formed as "thoughtcrime," used to describe criminal thoughts or beliefs and implies CRIMETHINK.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752438</data>
+    </node>
+    <node id="thinkpol">
+      <data key="d0">thinkpol</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d2">THINKPOL refers to the Thought Police in Newspeak, derived from "Thought Police" with 'POLICE' shortened and implying its function.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752439</data>
+    </node>
+    <node id="minitrue">
+      <data key="d0">minitrue</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d2">Minitrue is a noun form of the adjective MINITRUTHFUL, indicating slightly false or nearly true statements and implies Minitrue.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752439</data>
+    </node>
+    <node id="goodthinked">
+      <data key="d0">goodthinked</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d2">GOODTHINKED is a past participle form associated with the concept of good thinking and implies GOODTHINKED.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752440</data>
+    </node>
+    <node id="minipax">
+      <data key="d0">minipax</data>
+      <data key="d3">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d2">MINIPAX is an artifact derived from MINIPEACEFUL, representing slightly peaceful state or feeling and implies MINIPAX.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752440</data>
+    </node>
+    <node id="Thomas Jefferson">
+      <data key="d0">Thomas Jefferson</data>
+      <data key="d3">chunk-877c954ec93bb835f0176da84c3b5889</data>
+      <data key="d2">Thomas Jefferson authored the Declaration of Independence.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752442</data>
+    </node>
+    <node id="Jefferson's words">
+      <data key="d0">Jefferson's words</data>
+      <data key="d3">chunk-877c954ec93bb835f0176da84c3b5889</data>
+      <data key="d2">The Declaration of Independence cannot be translated into Newspeak without altering its sense and meaning.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752443</data>
+    </node>
+    <node id="a good deal of the literature">
+      <data key="d0">a good deal of the literature</data>
+      <data key="d3">chunk-877c954ec93bb835f0176da84c3b5889</data>
+      <data key="d2">Considerations of prestige made it desirable to preserve certain historical figures while aligning their achievements with Ings philosophy.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752443</data>
+    </node>
+    <node id="preserved memory">
+      <data key="d0">preserved memory</data>
+      <data key="d3">chunk-877c954ec93bb835f0176da84c3b5889</data>
+      <data key="d2">Considerations of prestige made it desirable to preserve certain historical figures while aligning their achievements with Ings philosophy.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752443</data>
+    </node>
+    <node id="THINK">
+      <data key="d0">THINK</data>
+      <data key="d3">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d2">In Newspeak, THOUGHT is replaced by THINK which functions both as a noun and verb.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752444</data>
+    </node>
+    <node id="SPEEDFUL">
+      <data key="d0">SPEEDFUL</data>
+      <data key="d3">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d2">-FUL suffix forms 'rapid' from SPEED in Newspeak.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752444</data>
+    </node>
+    <node id="SPEEDWISE">
+      <data key="d0">SPEEDWISE</data>
+      <data key="d3">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d2">-WISE termination creates the adverb 'quickly' from SPEED in Newspeak.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752445</data>
+    </node>
+    <node id="COLD">
+      <data key="d0">COLD</data>
+      <data key="d3">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d2">UNCOLD negates COLD with UN- prefix to create the opposite meaning.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752445</data>
+    </node>
+    <node id="THINKFUL">
+      <data key="d0">THINKFUL</data>
+      <data key="d3">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d2">-FUL suffix forms 'thoughtful' from THINK in Newspeak.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781752446</data>
+    </node>
+    <edge source="Newspeak Dictionary" target="OLDTHINK">
+      <data key="d6">1.0</data>
+      <data key="d7">The Newspeak Dictionary transforms and destroys the concept of OLDTHINK.</data>
+      <data key="d8">concept destruction,word transformation</data>
+      <data key="d9">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752413</data>
+    </edge>
+    <edge source="Newspeak Dictionary" target="FREE">
+      <data key="d6">1.0</data>
+      <data key="d7">The Newspeak Dictionary suppresses the heretical meanings of FREE.</data>
+      <data key="d8">concept suppression,word transformation</data>
+      <data key="d9">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752414</data>
+    </edge>
+    <edge source="Newspeak Dictionary" target="HONOUR">
+      <data key="d6">1.0</data>
+      <data key="d7">The Newspeak Dictionary eliminates concepts like HONOUR through comprehensive terms.</data>
+      <data key="d8">concept elimination,word transformation</data>
+      <data key="d9">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752414</data>
+    </edge>
+    <edge source="Newspeak Dictionary" target="JUSTICE">
+      <data key="d6">1.0</data>
+      <data key="d7">The Newspeak Dictionary eliminates the concept of JUSTICE through comprehensive terms.</data>
+      <data key="d8">concept elimination,word transformation</data>
+      <data key="d9">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752414</data>
+    </edge>
+    <edge source="Newspeak Dictionary" target="MORALITY">
+      <data key="d6">1.0</data>
+      <data key="d7">The Newspeak Dictionary abolishes the concept of MORALITY using comprehensive terms.</data>
+      <data key="d8">concept elimination,word transformation</data>
+      <data key="d9">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752415</data>
+    </edge>
+    <edge source="Newspeak Dictionary" target="INTERNATIONALISM">
+      <data key="d6">1.0</data>
+      <data key="d7">The Newspeak Dictionary eliminates the term INTERNATIONALISM through comprehensive terms.</data>
+      <data key="d8">concept elimination,word transformation</data>
+      <data key="d9">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752415</data>
+    </edge>
+    <edge source="Newspeak Dictionary" target="DEMOCRACY">
+      <data key="d6">1.0</data>
+      <data key="d7">The Newspeak Dictionary abolishes the concept of DEMOCRACY using comprehensive terms.</data>
+      <data key="d8">concept elimination,word transformation</data>
+      <data key="d9">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752416</data>
+    </edge>
+    <edge source="Newspeak Dictionary" target="SCIENCE">
+      <data key="d6">1.0</data>
+      <data key="d7">The Newspeak Dictionary eliminates the term SCIENCE through comprehensive terms.</data>
+      <data key="d8">concept elimination,word transformation</data>
+      <data key="d9">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752416</data>
+    </edge>
+    <edge source="Newspeak Dictionary" target="RELIGION">
+      <data key="d6">1.0</data>
+      <data key="d7">The Newspeak Dictionary abolishes the concept of RELIGION using comprehensive terms.</data>
+      <data key="d8">concept elimination,word transformation</data>
+      <data key="d9">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752416</data>
+    </edge>
+    <edge source="Newspeak Dictionary" target="CRIMETHINK">
+      <data key="d6">1.0</data>
+      <data key="d7">The Newspeak Dictionary uses CRIMETHINK to abolish concepts like liberty and equality.</data>
+      <data key="d8">concept abolition,word transformation</data>
+      <data key="d9">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752417</data>
+    </edge>
+    <edge source="Newspeak Dictionary" target="SEXCRIME">
+      <data key="d6">1.0</data>
+      <data key="d7">The Newspeak term SEXCRIME regulates the sexual life of Party members.</data>
+      <data key="d8">regulation,word transformation</data>
+      <data key="d9">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752417</data>
+    </edge>
+    <edge source="Newspeak Dictionary" target="GOODSEX">
+      <data key="d6">1.0</data>
+      <data key="d7">The Newspeak term GOODSEX provides generalized definitions for permissible sexual conduct.</data>
+      <data key="d8">regulation,word transformation</data>
+      <data key="d9">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752418</data>
+    </edge>
+    <edge source="Newspeak Dictionary" target="Newspeak Words">
+      <data key="d6">1.0</data>
+      <data key="d7">The Newspeak Dictionary transforms and destroys the meaning of certain words.</data>
+      <data key="d8">concept destruction,word transformation</data>
+      <data key="d9">chunk-92717df9c2dcca52c329b543c7e1f93a</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752418</data>
+    </edge>
+    <edge source="Newspeak Dictionary" target="Ingsoc">
+      <data key="d6">1.0</data>
+      <data key="d7">The Newspeak Dictionary documents the language as prescribed by Ingsoc for linguistic standardization.</data>
+      <data key="d8">documentation,language standardization</data>
+      <data key="d9">chunk-6a5e67b8589ccc49c8c351f04a3fb597</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752426</data>
+    </edge>
+    <edge source="CRIMETHINK" target="B Words">
+      <data key="d6">1.0</data>
+      <data key="d7">CRIMETHINK is a B Word formed for ease of pronunciation and indicating its meaning as "thoughtcrime."</data>
+      <data key="d8">meaning,word formation</data>
+      <data key="d9">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752434</data>
+    </edge>
+    <edge source="CRIMETHINK" target="crimethink">
+      <data key="d6">1.0</data>
+      <data key="d7">CRIMETHINK is a B Word formed as "thoughtcrime," used to describe criminal thoughts or beliefs and implies CRIMETHINK.</data>
+      <data key="d8">artifact usage,concept description</data>
+      <data key="d9">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752438</data>
+    </edge>
+    <edge source="CRIMETHINK" target="Newspeak">
+      <data key="d6">1.0</data>
+      <data key="d7">CRIMETHINK is a term used in Newspeak to label criminal thoughts.</data>
+      <data key="d8">ideological control,term definition</data>
+      <data key="d9">chunk-877c954ec93bb835f0176da84c3b5889</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752442</data>
+    </edge>
+    <edge source="SEXCRIME" target="Newspeak">
+      <data key="d6">1.0</data>
+      <data key="d7">SEXCRIME is defined as sexual misdeeds that are considered immoral or perversions under Newspeak.</data>
+      <data key="d8">classification,definition</data>
+      <data key="d9">chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752421</data>
+    </edge>
+    <edge source="GOODSEX" target="Sexual Immorality">
+      <data key="d6">1.0</data>
+      <data key="d7">GOODSEX is explicitly distinguished from SEXCRIME and represents normal intercourse without pleasure.</data>
+      <data key="d8">distinction,exclusion</data>
+      <data key="d9">chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752421</data>
+    </edge>
+    <edge source="Prestige" target="Certain Historical Figures">
+      <data key="d6">1.0</data>
+      <data key="d7">Prestige influenced the decision to preserve certain historical figures' memories and align their achievements with Ingsoc's philosophy.</data>
+      <data key="d8">alignment,memory preservation</data>
+      <data key="d9">chunk-3ac0f368d161e0b4a92e4feca495cd11</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752418</data>
+    </edge>
+    <edge source="Certain Historical Figures" target="Ingsoc">
+      <data key="d6">1.0</data>
+      <data key="d7">Ingsoc influenced the translation of certain historical figures' works to align with its ideology.</data>
+      <data key="d8">ideology,translation</data>
+      <data key="d9">chunk-3ac0f368d161e0b4a92e4feca495cd11</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752421</data>
+    </edge>
+    <edge source="Ingsoc" target="Shakespeare">
+      <data key="d6">1.0</data>
+      <data key="d7">Shakespeare's works were subject to translation into Newspeak as part of Ingsoc's ideological control.</data>
+      <data key="d8">ideology,translation</data>
+      <data key="d9">chunk-3ac0f368d161e0b4a92e4feca495cd11</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752419</data>
+    </edge>
+    <edge source="Ingsoc" target="Milton">
+      <data key="d6">1.0</data>
+      <data key="d7">Milton's writings were also subject to the same process.</data>
+      <data key="d8">ideology,translation</data>
+      <data key="d9">chunk-3ac0f368d161e0b4a92e4feca495cd11</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752419</data>
+    </edge>
+    <edge source="Ingsoc" target="Swift">
+      <data key="d6">1.0</data>
+      <data key="d7">Swift's works were translated into Newspeak for ideological alignment.</data>
+      <data key="d8">ideology,translation</data>
+      <data key="d9">chunk-3ac0f368d161e0b4a92e4feca495cd11</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752419</data>
+    </edge>
+    <edge source="Ingsoc" target="Byron">
+      <data key="d6">1.0</data>
+      <data key="d7">Byron's writings underwent translation to fit Ingsoc's ideology.</data>
+      <data key="d8">ideology,translation</data>
+      <data key="d9">chunk-3ac0f368d161e0b4a92e4feca495cd11</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752420</data>
+    </edge>
+    <edge source="Ingsoc" target="Dickens">
+      <data key="d6">1.0</data>
+      <data key="d7">Dickens' works were translated as part of the larger ideological project.</data>
+      <data key="d8">ideology,translation</data>
+      <data key="d9">chunk-3ac0f368d161e0b4a92e4feca495cd11</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752420</data>
+    </edge>
+    <edge source="Ingsoc" target="Newspeak">
+      <data key="d6">3.0</data>
+      <data key="d7">Newspeak is designed to support the ideology of Ingsoc and make heretical thoughts literally unthinkable.&lt;SEP&gt;Newspeak reflects Ingsoc ideology through euphony and controlled vocabulary, aiding in thought control.&lt;SEP&gt;Words inimical to Ingsoc can only be vaguely entertained or broadly condemned using Newspeak's limited vocabulary.</data>
+      <data key="d8">ideological control,ideology reflection,language design,linguistic control,opposition,restricted vocabulary</data>
+      <data key="d9">chunk-6a5e67b8589ccc49c8c351f04a3fb597&lt;SEP&gt;chunk-d6180f0140c592fb4bd1c07a384d5423&lt;SEP&gt;chunk-e344b38beed08083660fea5486c5abe3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752424</data>
+    </edge>
+    <edge source="Ingsoc" target="Thinkpol">
+      <data key="d6">1.0</data>
+      <data key="d7">The purpose of Thinkpol is to enforce conformity with Ingsoc ideology by suppressing dissenting thoughts.</data>
+      <data key="d8">enforcement,political purposes</data>
+      <data key="d9">chunk-d6180f0140c592fb4bd1c07a384d5423</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752425</data>
+    </edge>
+    <edge source="Ingsoc" target="Prolefeed">
+      <data key="d6">1.0</data>
+      <data key="d7">Ingsoc uses Prolefeed to control and manipulate the lower classes (proles).</data>
+      <data key="d8">control,propaganda</data>
+      <data key="d9">chunk-d6180f0140c592fb4bd1c07a384d5423</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752425</data>
+    </edge>
+    <edge source="Ingsoc" target="Sexcrime">
+      <data key="d6">1.0</data>
+      <data key="d7">Ingsoc's use of Sexcrime terms reflects its moral and ethical framework.</data>
+      <data key="d8">ideological control,moral regulation</data>
+      <data key="d9">chunk-d6180f0140c592fb4bd1c07a384d5423</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752425</data>
+    </edge>
+    <edge source="Ingsoc" target="nineteen eighty-four">
+      <data key="d6">1.0</data>
+      <data key="d7">The concepts and language changes in Newspeak are set against the backdrop of 1984, reflecting the timeline of Ingsoc's rule.</data>
+      <data key="d8">ideological enforcement,timeline</data>
+      <data key="d9">chunk-6a5e67b8589ccc49c8c351f04a3fb597</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752426</data>
+    </edge>
+    <edge source="Ingsoc" target="Oldspeak">
+      <data key="d6">1.0</data>
+      <data key="d7">The principles of Ingsoc are reflected in the use and control over Oldspeak to impose orthodoxy through language reform.</data>
+      <data key="d8">ideological opposition,linguistic control</data>
+      <data key="d9">chunk-72158fb48dfe5cb1a9c716f76eae16d9</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752432</data>
+    </edge>
+    <edge source="Ingsoc" target="B Vocabulary">
+      <data key="d6">1.0</data>
+      <data key="d7">The B vocabulary is a direct result of the ideological principles of Ingsoc aimed at controlling thought and speech.</data>
+      <data key="d8">ideology,linguistic implementation</data>
+      <data key="d9">chunk-72158fb48dfe5cb1a9c716f76eae16d9</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752432</data>
+    </edge>
+    <edge source="Ingsoc" target="Oldthinkers">
+      <data key="d6">1.0</data>
+      <data key="d7">OLDTHINKERS are those who think before the Revolution and are opposed by INGSOC principles.</data>
+      <data key="d8">ideological conflict,opposition</data>
+      <data key="d9">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752435</data>
+    </edge>
+    <edge source="Ingsoc" target="Minitrue">
+      <data key="d6">1.0</data>
+      <data key="d7">MINITRUE is a B Word that represents slightly false or nearly true statements in Newspeak.</data>
+      <data key="d8">language subtilization,meaning</data>
+      <data key="d9">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752436</data>
+    </edge>
+    <edge source="Ingsoc" target="Minipeaceful">
+      <data key="d6">1.0</data>
+      <data key="d7">MINIPEACEFUL refers to a slightly peaceful state or feeling within INGSOC ideology.</data>
+      <data key="d8">language subtilization,meaning</data>
+      <data key="d9">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752436</data>
+    </edge>
+    <edge source="Ingsoc" target="Minilovely">
+      <data key="d6">1.0</data>
+      <data key="d7">MINILOVELY is an adjective form in Newspeak that signifies a slightly loving or affectionate sentiment.</data>
+      <data key="d8">language subtilization,meaning</data>
+      <data key="d9">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752436</data>
+    </edge>
+    <edge source="Ingsoc" target="Ingsoc Principles">
+      <data key="d6">1.0</data>
+      <data key="d7">INGSOC PRINCIPLES represent the core doctrines of English Socialism in Newspeak society.</data>
+      <data key="d8">doctrine explanation,ideological content</data>
+      <data key="d9">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752437</data>
+    </edge>
+    <edge source="Technical Manuals" target="Newspeak">
+      <data key="d6">1.0</data>
+      <data key="d7">Technical manuals and similar utilitarian literature had to be adapted into Newspeak as part of the larger ideological project.</data>
+      <data key="d8">adaptation,language change</data>
+      <data key="d9">chunk-3ac0f368d161e0b4a92e4feca495cd11</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752420</data>
+    </edge>
+    <edge source="Sexual Immorality" target="Homosexuality">
+      <data key="d6">1.0</data>
+      <data key="d7">HOMOSEXUALITY is categorized as a sexual immorality under Newspeak.</data>
+      <data key="d8">categorization,inclusion</data>
+      <data key="d9">chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752421</data>
+    </edge>
+    <edge source="Fornication" target="Death Penalty">
+      <data key="d6">1.0</data>
+      <data key="d7">All acts classified as FORNICATION are subject to the death penalty under Newspeak.</data>
+      <data key="d8">consequence,punishment</data>
+      <data key="d9">chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752421</data>
+    </edge>
+    <edge source="Newspeak" target="Ministry of Truth">
+      <data key="d6">1.0</data>
+      <data key="d7">The Ministry of Truth is involved in creating and controlling the Newspeak language to serve its propaganda purposes.</data>
+      <data key="d8">control,language creation</data>
+      <data key="d9">chunk-d6180f0140c592fb4bd1c07a384d5423</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752424</data>
+    </edge>
+    <edge source="Newspeak" target="Oldspeak">
+      <data key="d6">3.0</data>
+      <data key="d7">Oldspeak is being replaced by Newspeak in Oceania to limit alternative modes of thought.&lt;SEP&gt;With Oldspeak being replaced by Newspeak, many concepts from Oldspeak will become nameless and unimaginable in the future.&lt;SEP&gt;The superseding of Oldspeak by Newspeak severed the last connection with the past.</data>
+      <data key="d8">historical context,historical link,language evolution,language replacement,replacement,replacement attempt</data>
+      <data key="d9">chunk-6a5e67b8589ccc49c8c351f04a3fb597&lt;SEP&gt;chunk-877c954ec93bb835f0176da84c3b5889&lt;SEP&gt;chunk-e344b38beed08083660fea5486c5abe3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752426</data>
+    </edge>
+    <edge source="Newspeak" target="Party Members">
+      <data key="d6">1.0</data>
+      <data key="d7">Party members are using and adopting Newspeak in their daily speech as it gains ground.</data>
+      <data key="d8">language implementation,user adoption</data>
+      <data key="d9">chunk-6a5e67b8589ccc49c8c351f04a3fb597</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752426</data>
+    </edge>
+    <edge source="Newspeak" target="UNGOOD">
+      <data key="d6">1.0</data>
+      <data key="d7">The statement UNGOOD cannot be argued against within the constraints of Newspeak.</data>
+      <data key="d8">incompatibility,unarguable concept</data>
+      <data key="d9">chunk-e344b38beed08083660fea5486c5abe3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752431</data>
+    </edge>
+    <edge source="Newspeak" target="Doublethink">
+      <data key="d6">1.0</data>
+      <data key="d7">Doublethink allows for using Newspeak correctly despite its limitations on expressing complex ideas.</data>
+      <data key="d8">mental ability,proper usage</data>
+      <data key="d9">chunk-e344b38beed08083660fea5486c5abe3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752431</data>
+    </edge>
+    <edge source="Newspeak" target="A Vocabulary">
+      <data key="d6">1.0</data>
+      <data key="d7">The A vocabulary is a fundamental component of Newspeak designed for everyday practical use.</data>
+      <data key="d8">core functionality,vocabulary classification</data>
+      <data key="d9">chunk-dc8d92b2ecc0fa26ebda9e2c6d77c94d</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752433</data>
+    </edge>
+    <edge source="Newspeak" target="B Vocabulary (compound words)">
+      <data key="d6">1.0</data>
+      <data key="d7">The B vocabulary adds complexity to the language by creating compound words.</data>
+      <data key="d8">complexity increase,vocabulary classification</data>
+      <data key="d9">chunk-dc8d92b2ecc0fa26ebda9e2c6d77c94d</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752434</data>
+    </edge>
+    <edge source="Newspeak" target="C Vocabulary">
+      <data key="d6">1.0</data>
+      <data key="d7">The C vocabulary exists in Newspeak but its specific nature is not detailed.</data>
+      <data key="d8">unspecified nature,vocabulary classification</data>
+      <data key="d9">chunk-dc8d92b2ecc0fa26ebda9e2c6d77c94d</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752434</data>
+    </edge>
+    <edge source="Newspeak" target="DUCKSPEAK">
+      <data key="d6">1.0</data>
+      <data key="d7">The term DUCKSPEAK exists within the Newspeak language to enforce orthodox opinions.</data>
+      <data key="d8">language feature,orthodoxy</data>
+      <data key="d9">chunk-f3461be011bed873ca130b8edc1a052b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752441</data>
+    </edge>
+    <edge source="Newspeak" target="C VOCABULARY">
+      <data key="d6">1.0</data>
+      <data key="d7">The C vocabulary is part of the Newspeak language and includes scientific and technical terms.</data>
+      <data key="d8">scientific terms,vocabulary classification</data>
+      <data key="d9">chunk-f3461be011bed873ca130b8edc1a052b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752441</data>
+    </edge>
+    <edge source="Newspeak" target="INGSOC">
+      <data key="d6">1.0</data>
+      <data key="d7">INGSOC represents a concept within the Newspeak society that relates to science and its methods of thought.</data>
+      <data key="d8">function,ideology representation</data>
+      <data key="d9">chunk-f3461be011bed873ca130b8edc1a052b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752441</data>
+    </edge>
+    <edge source="Newspeak" target="-FUL">
+      <data key="d6">1.0</data>
+      <data key="d7">The -FUL suffix is used in Newspeak to form adjectives from noun-verbs.</data>
+      <data key="d8">adjective formation,suffix usage</data>
+      <data key="d9">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752443</data>
+    </edge>
+    <edge source="Newspeak" target="-WISE">
+      <data key="d6">1.0</data>
+      <data key="d7">-WISE termination serves as an invariable suffix for some adverbs and to strengthen certain adjectives in Newspeak.</data>
+      <data key="d8">adverb creation,suffix usage</data>
+      <data key="d9">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752444</data>
+    </edge>
+    <edge source="Adultery" target="Death Penalty">
+      <data key="d6">1.0</data>
+      <data key="d7">ADULTERY is also a form of SEXCRIME and carries the same severe punishment.</data>
+      <data key="d8">consequence,punishment</data>
+      <data key="d9">chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752421</data>
+    </edge>
+    <edge source="B vocabulary" target="Ministry of Truth">
+      <data key="d6">1.0</data>
+      <data key="d7">The B vocabulary is used within the Ministry of Truth for political control and language manipulation.</data>
+      <data key="d8">language manipulation,political control</data>
+      <data key="d9">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752422</data>
+    </edge>
+    <edge source="B vocabulary" target="Winston Smith">
+      <data key="d6">1.0</data>
+      <data key="d7">Winston Smith works with terms from the B vocabulary, influenced by its use in the Ministry of Truth.</data>
+      <data key="d8">information control,political influence</data>
+      <data key="d9">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752422</data>
+    </edge>
+    <edge source="MINIPAX" target="minipax">
+      <data key="d6">1.0</data>
+      <data key="d7">MINIPAX is an artifact derived from MINIPEACEFUL, representing slightly peaceful state or feeling and implies MINIPAX.</data>
+      <data key="d8">artifact usage,concept description</data>
+      <data key="d9">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752440</data>
+    </edge>
+    <edge source="Oceanic Society" target="Prolefeed">
+      <data key="d6">1.0</data>
+      <data key="d7">PROLEFEED serves as the means through which the Party controls and misleads the masses in Oceania.</data>
+      <data key="d8">control,propaganda</data>
+      <data key="d9">chunk-a0a7c4405603e7bd6c621e4885a85ebc</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752422</data>
+    </edge>
+    <edge source="Ministry of Truth" target="Teleprogrammes Department">
+      <data key="d6">1.0</data>
+      <data key="d7">The Teleprogrammes Department is part of the broader organizational structure of the Ministry of Truth.</data>
+      <data key="d8">department function,organizational structure</data>
+      <data key="d9">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752423</data>
+    </edge>
+    <edge source="Ministry of Truth" target="MINTRU">
+      <data key="d6">1.0</data>
+      <data key="d7">MINTRU is an abbreviation for MINISTRY OF TRUTH designed for easier pronunciation.</data>
+      <data key="d8">abbreviation relationship,language simplification</data>
+      <data key="d9">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752423</data>
+    </edge>
+    <edge source="Winston Smith" target="Records Department">
+      <data key="d6">1.0</data>
+      <data key="d7">Winston Smith works in the Records Department at the Ministry of Truth.</data>
+      <data key="d8">employment relationship,work assignment</data>
+      <data key="d9">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752424</data>
+    </edge>
+    <edge source="Records Department" target="Fiction Department">
+      <data key="d6">1.0</data>
+      <data key="d7">The Records and Fiction Departments are divisions within the Ministry of Truth with distinct but related functions.</data>
+      <data key="d8">divisional relationship,separate functions</data>
+      <data key="d9">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752422</data>
+    </edge>
+    <edge source="NAZI" target="GESTAPO">
+      <data key="d6">1.0</data>
+      <data key="d7">NAZI and GESTAPO are related concepts within totalitarian political language.</data>
+      <data key="d8">political context,related terms</data>
+      <data key="d9">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752423</data>
+    </edge>
+    <edge source="COMINTERN" target="AGITPROP">
+      <data key="d6">1.0</data>
+      <data key="d7">COMINTERN and AGITPROP are related to each other in the context of political organizations.</data>
+      <data key="d8">political organization,related terms</data>
+      <data key="d9">chunk-cf837caf239da2f8d9dc1f8eda04c678</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752423</data>
+    </edge>
+    <edge source="Goodthink" target="B Vocabulary">
+      <data key="d6">1.0</data>
+      <data key="d7">The B vocabulary includes the word Goodthink as a political construction that serves to impose orthodoxy on thought and speech.</data>
+      <data key="d8">ideological shorthand,political construction</data>
+      <data key="d9">chunk-72158fb48dfe5cb1a9c716f76eae16d9</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752433</data>
+    </edge>
+    <edge source="Thinkpol" target="B Vocabulary">
+      <data key="d6">1.0</data>
+      <data key="d7">The B vocabulary serves as a tool for the Thinkpol in enforcing ideological purity through language.</data>
+      <data key="d8">enforcement,tool usage</data>
+      <data key="d9">chunk-d6180f0140c592fb4bd1c07a384d5423</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752425</data>
+    </edge>
+    <edge source="Thinkpol" target="B Words">
+      <data key="d6">1.0</data>
+      <data key="d7">THINKPOL is a B Word derived from "Thought Police" to indicate the organization's name in Newspeak.</data>
+      <data key="d8">organization name,word formation</data>
+      <data key="d9">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752435</data>
+    </edge>
+    <edge source="B Vocabulary" target="SPEAKWRITE">
+      <data key="d6">1.0</data>
+      <data key="d7">B vocabulary includes SPEAKWRITE as a political construction that serves as verbal shorthand but lacks ideological color in the A vocabulary.</data>
+      <data key="d8">ideological shorthand,political construction</data>
+      <data key="d9">chunk-72158fb48dfe5cb1a9c716f76eae16d9</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752432</data>
+    </edge>
+    <edge source="B Vocabulary" target="Oldspeak">
+      <data key="d6">1.0</data>
+      <data key="d7">B vocabulary transforms Oldspeak through political means to enforce orthodoxy and control.</data>
+      <data key="d8">language transformation,political impact</data>
+      <data key="d9">chunk-72158fb48dfe5cb1a9c716f76eae16d9</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752433</data>
+    </edge>
+    <edge source="Oceania" target="The Times">
+      <data key="d6">1.0</data>
+      <data key="d7">The Times is an official publication in Oceania that disseminates Newspeak.</data>
+      <data key="d8">official media,publication location</data>
+      <data key="d9">chunk-6a5e67b8589ccc49c8c351f04a3fb597</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752425</data>
+    </edge>
+    <edge source="Oldspeak" target="1984">
+      <data key="d6">1.0</data>
+      <data key="d7">Oldspeak is the language used before 1984 and will be replaced by Newspeak in the future.</data>
+      <data key="d8">historical context,language use</data>
+      <data key="d9">chunk-e344b38beed08083660fea5486c5abe3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752431</data>
+    </edge>
+    <edge source="Oldspeak" target="UNGOOD">
+      <data key="d6">1.0</data>
+      <data key="d7">The concept UNGOOD can be fully expressed and argued in Oldspeak but not in Newspeak.</data>
+      <data key="d8">concept existence,language change</data>
+      <data key="d9">chunk-e344b38beed08083660fea5486c5abe3</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752431</data>
+    </edge>
+    <edge source="UNCOLD" target="DoublePlusCold">
+      <data key="d6">1.0</data>
+      <data key="d7">UNCOLD is the opposite of DOUBLEPLUSCOLD in Newspeak.</data>
+      <data key="d8">definition relationship,opposite meaning</data>
+      <data key="d9">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752427</data>
+    </edge>
+    <edge source="UNCOLD" target="COLD">
+      <data key="d6">1.0</data>
+      <data key="d7">UNCOLD negates COLD with UN- prefix to create the opposite meaning.</data>
+      <data key="d8">negation and intensification,word transformation</data>
+      <data key="d9">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752445</data>
+    </edge>
+    <edge source="PLUSCOLD" target="DoublePlusCold">
+      <data key="d6">1.0</data>
+      <data key="d7">PLUSCOLD is the opposite of DOUBLEPLUSCOLD in Newspeak.</data>
+      <data key="d8">definition relationship,opposite meaning</data>
+      <data key="d9">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752428</data>
+    </edge>
+    <edge source="PLUSCOLD" target="COLD">
+      <data key="d6">1.0</data>
+      <data key="d7">PLUSCOLD strengthens the meaning of COLD by adding PLUS- prefix in Newspeak.</data>
+      <data key="d8">intensification,word transformation</data>
+      <data key="d9">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752446</data>
+    </edge>
+    <edge source="DOUBLEPLUSCOLD" target="COLD">
+      <data key="d6">1.0</data>
+      <data key="d7">DOUBLEPLUSCOLD further intensifies the meaning of COLD with DOUBLEPLUS- prefix in Newspeak.</data>
+      <data key="d8">strong intensification,word transformation</data>
+      <data key="d9">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752446</data>
+    </edge>
+    <edge source="ANTE-" target="-S,-ES">
+      <data key="d6">1.0</data>
+      <data key="d7">ANTE- can be combined with -S or -ES to form plurals.</data>
+      <data key="d8">plural formation,prefix inflection</data>
+      <data key="d9">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752429</data>
+    </edge>
+    <edge source="POST-" target="-S,-ES">
+      <data key="d6">1.0</data>
+      <data key="d7">POST- can be combined with -S or -ES to form plurals.</data>
+      <data key="d8">plural formation,prefix inflection</data>
+      <data key="d9">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752429</data>
+    </edge>
+    <edge source="UP-" target="-S,-ES">
+      <data key="d6">1.0</data>
+      <data key="d7">UP- can be combined with -S or -ES to form plurals.</data>
+      <data key="d8">plural formation,prefix inflection</data>
+      <data key="d9">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752430</data>
+    </edge>
+    <edge source="DOWN-" target="-S,-ES">
+      <data key="d6">1.0</data>
+      <data key="d7">DOWN- can be combined with -S or -ES to form plurals.</data>
+      <data key="d8">plural formation,prefix inflection</data>
+      <data key="d9">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752430</data>
+    </edge>
+    <edge source="UNGOOD" target="Good">
+      <data key="d6">1.0</data>
+      <data key="d7">UNGOOD is the opposite of GOOD in Newspeak.</data>
+      <data key="d8">opposite relationship,word formation</data>
+      <data key="d9">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752428</data>
+    </edge>
+    <edge source="DARK" target="Light">
+      <data key="d6">1.0</data>
+      <data key="d7">DARK and UNLIGHT or LIGHT and UNDARK are used to express each other's opposites in Newspeak.</data>
+      <data key="d8">opposite relationship,word formation</data>
+      <data key="d9">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752429</data>
+    </edge>
+    <edge source="-ED" target="-S,-ES">
+      <data key="d6">2.0</data>
+      <data key="d7">-ED endings are used for both preterite and past participle forms of verbs, while -S or -ES can form plurals.&lt;SEP&gt;-S or -ES can be used as plural suffixes for words like MANS, while -ED is used for past tense and past participle.</data>
+      <data key="d8">plural formation,verb inflection</data>
+      <data key="d9">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752428</data>
+    </edge>
+    <edge source="-ED" target="SWAM">
+      <data key="d6">1.0</data>
+      <data key="d7">SWAM's past tense and participle form is STEALED.</data>
+      <data key="d8">past tense and participle formation,verb inflection</data>
+      <data key="d9">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752430</data>
+    </edge>
+    <edge source="-ER,-EST" target="-S,-ES">
+      <data key="d6">1.0</data>
+      <data key="d7">-S and -ES can be used as plural suffixes for adjectives like LIFES, while -ER and -EST are used for comparison.</data>
+      <data key="d8">adjective comparison,plural formation</data>
+      <data key="d9">chunk-563c6c743b686961b6884d542125ac31</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752431</data>
+    </edge>
+    <edge source="A Vocabulary" target="B Vocabulary (compound words)">
+      <data key="d6">1.0</data>
+      <data key="d7">The A vocabulary forms the base for the more complex B vocabulary.</data>
+      <data key="d8">dependency,relationship between categories</data>
+      <data key="d9">chunk-dc8d92b2ecc0fa26ebda9e2c6d77c94d</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752434</data>
+    </edge>
+    <edge source="GOODTHINKED" target="goodthinked">
+      <data key="d6">1.0</data>
+      <data key="d7">GOODTHINKED is a past participle form associated with the concept of good thinking and implies GOODTHINKED.</data>
+      <data key="d8">concept description,verb form</data>
+      <data key="d9">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752440</data>
+    </edge>
+    <edge source="GOODTHINKER" target="goodthinker">
+      <data key="d6">1.0</data>
+      <data key="d7">GOODTHINKER refers to a verbal noun associated with the concept of good thinker and implies wisdom in thinking.</data>
+      <data key="d8">artifact usage,concept description</data>
+      <data key="d9">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752437</data>
+    </edge>
+    <edge source="THINKPOL" target="thinkpol">
+      <data key="d6">1.0</data>
+      <data key="d7">THINKPOL refers to the Thought Police in Newspeak, derived from "Thought Police" with 'POLICE' shortened and implying its function.</data>
+      <data key="d8">meaning,organization name</data>
+      <data key="d9">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752439</data>
+    </edge>
+    <edge source="Minitrue" target="minitrue">
+      <data key="d6">1.0</data>
+      <data key="d7">Minitrue is a noun form of the adjective MINITRUTHFUL, indicating slightly false or nearly true statements and implies Minitrue.</data>
+      <data key="d8">artifact usage,concept description</data>
+      <data key="d9">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752439</data>
+    </edge>
+    <edge source="Oldthinkers" target="Oldthinking">
+      <data key="d6">1.0</data>
+      <data key="d7">OLDTHINKING is the concept associated with OLDTHINKERS and indicates their thinking style before the Revolution.</data>
+      <data key="d8">action description,concept association</data>
+      <data key="d9">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752436</data>
+    </edge>
+    <edge source="Heretics" target="Big Brother">
+      <data key="d6">1.0</data>
+      <data key="d7">Heretics who express unorthodox opinions are in opposition to the symbol of Big Brother's regime.</data>
+      <data key="d8">opposition,symbol</data>
+      <data key="d9">chunk-f3461be011bed873ca130b8edc1a052b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752441</data>
+    </edge>
+    <edge source="Declaration of Independence" target="Thomas Jefferson">
+      <data key="d6">1.0</data>
+      <data key="d7">Thomas Jefferson authored the Declaration of Independence.</data>
+      <data key="d8">authorship,document creation</data>
+      <data key="d9">chunk-877c954ec93bb835f0176da84c3b5889</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752442</data>
+    </edge>
+    <edge source="Declaration of Independence" target="Jefferson's words">
+      <data key="d6">1.0</data>
+      <data key="d7">The Declaration of Independence cannot be translated into Newspeak without altering its sense and meaning.</data>
+      <data key="d8">ideological translation,statement transformation</data>
+      <data key="d9">chunk-877c954ec93bb835f0176da84c3b5889</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752443</data>
+    </edge>
+    <edge source="THOUGHT" target="THINK">
+      <data key="d6">1.0</data>
+      <data key="d7">In Newspeak, THOUGHT is replaced by THINK which functions both as a noun and verb.</data>
+      <data key="d8">noun-verb conversion,word interchangeability</data>
+      <data key="d9">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752444</data>
+    </edge>
+    <edge source="-FUL" target="SPEEDFUL">
+      <data key="d6">1.0</data>
+      <data key="d7">-FUL suffix forms 'rapid' from SPEED in Newspeak.</data>
+      <data key="d8">adjectival meaning creation,suffix usage</data>
+      <data key="d9">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752444</data>
+    </edge>
+    <edge source="-FUL" target="THINKFUL">
+      <data key="d6">1.0</data>
+      <data key="d7">-FUL suffix forms 'thoughtful' from THINK in Newspeak.</data>
+      <data key="d8">adjectival meaning creation,suffix usage</data>
+      <data key="d9">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752446</data>
+    </edge>
+    <edge source="-WISE" target="SPEEDWISE">
+      <data key="d6">1.0</data>
+      <data key="d7">-WISE termination creates the adverb 'quickly' from SPEED in Newspeak.</data>
+      <data key="d8">adverbial meaning creation,suffix usage</data>
+      <data key="d9">chunk-56af4c612173c531ce5df3d6ad3e4204</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752445</data>
+    </edge>
+    <edge source="Goodthinking" target="goodthinker">
+      <data key="d6">1.0</data>
+      <data key="d7">GOODTHINKWISE is used to describe wise thinking, which is associated with GOODTHINKER.</data>
+      <data key="d8">adverb usage,concept description</data>
+      <data key="d9">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752434</data>
+    </edge>
+    <edge source="OLDTHINKERS" target="bellyfeel">
+      <data key="d6">1.0</data>
+      <data key="d7">OLDTHINKERS are associated with the concept of BELLYFEEL as they have difficulty in fully understanding INGSOC principles.</data>
+      <data key="d8">action description,concept association</data>
+      <data key="d9">chunk-491b3d4aaf8461a08befc0aab83f4bba</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752437</data>
+    </edge>
+    <edge source="a good deal of the literature" target="preserved memory">
+      <data key="d6">1.0</data>
+      <data key="d7">Considerations of prestige made it desirable to preserve certain historical figures while aligning their achievements with Ings philosophy.</data>
+      <data key="d8">ideological preservation,transformation</data>
+      <data key="d9">chunk-877c954ec93bb835f0176da84c3b5889</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1781752443</data>
+    </edge>
+  </graph>
+</graphml>

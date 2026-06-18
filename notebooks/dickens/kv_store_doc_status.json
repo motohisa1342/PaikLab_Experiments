@@ -1,0 +1,32 @@
+{
+  "doc-d5294a65ee262e174caff43c5149ab73": {
+    "status": "processed",
+    "chunks_count": 14,
+    "chunks_list": [
+      "chunk-6a5e67b8589ccc49c8c351f04a3fb597",
+      "chunk-dc8d92b2ecc0fa26ebda9e2c6d77c94d",
+      "chunk-56af4c612173c531ce5df3d6ad3e4204",
+      "chunk-563c6c743b686961b6884d542125ac31",
+      "chunk-72158fb48dfe5cb1a9c716f76eae16d9",
+      "chunk-491b3d4aaf8461a08befc0aab83f4bba",
+      "chunk-92717df9c2dcca52c329b543c7e1f93a",
+      "chunk-a0a7c4405603e7bd6c621e4885a85ebc",
+      "chunk-cf837caf239da2f8d9dc1f8eda04c678",
+      "chunk-d6180f0140c592fb4bd1c07a384d5423",
+      "chunk-f3461be011bed873ca130b8edc1a052b",
+      "chunk-e344b38beed08083660fea5486c5abe3",
+      "chunk-877c954ec93bb835f0176da84c3b5889",
+      "chunk-3ac0f368d161e0b4a92e4feca495cd11"
+    ],
+    "content_summary": "The Principles of Newspeak\n\n\n\nNewspeak was the official language of Oceania and had been devised to meet\nthe ideological needs of Ingsoc, or English Socialism. In the year 1984\nthere was not as yet anyone who used Newspeak as his sole means of\ncommun...",
+    "content_length": 26704,
+    "created_at": "2026-06-18T03:11:57.109735+00:00",
+    "updated_at": "2026-06-18T03:14:07.786709+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260618_121157_cf262861",
+    "metadata": {
+      "processing_start_time": 1781752317,
+      "processing_end_time": 1781752447
+    }
+  }
+}
