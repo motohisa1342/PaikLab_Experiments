@@ -3,9 +3,26 @@ rag:
   name: "vectorrag"
 
 vector_store:
-  type: "chroma"
-  persist_dir: "./storage/chroma"
+  type: "faiss"
+  persist_dir: "./src/VectorRAG/faiss_index"
   collection_name: "vectorrag_collection"
+  ollama_host: "http://localhost:11434"
+
+data:
+  source_path: "../../notebooks_sandbox/datasets/newSpeak1984_rt.txt"
+  encoding: "utf-8"
+
+chunking:
+  method: "PLC"       # RCC / FLC / PLC / SLC
+  chunk_size: 1000
+  chunk_overlap: 0
 
 index:
   rebuild: false
+
+retrieval:
+  top_k: 3
+  candidate_k: 10
+
+query:
+  text: "What are the top themes in this text?"
