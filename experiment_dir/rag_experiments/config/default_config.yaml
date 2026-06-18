@@ -1,0 +1,49 @@
+experiment:
+  name: "rag_experiment"
+  seed: 42
+  output_root: "./outputs"
+
+llm:
+  provider: "ollama"
+  model_name: "qwen2.5:7b"
+  context_length: 8192
+  temperature: 0.2
+  max_tokens: 2048
+  options:
+    num_ctx: 8192
+
+embedding:
+  provider: "ollama"
+  model_name: "bge-m3:latest"
+  dimension: 1024
+  validate_dimension: true
+
+chunking:
+  method: "recursive"
+  chunk_size: 800
+  chunk_overlap: 100
+
+data:
+  input_dir: "./data/input"
+  question_path: "./data/questions.jsonl"
+  file_types:
+    - "txt"
+    - "md"
+    - "pdf"
+
+prompt:
+  template_path: "./prompts/default_rag_ja.txt"
+
+retrieval:
+  top_k: 5
+
+generation:
+  do_generate: true
+
+output:
+  mode: "full"      # answer / prompt / context / full
+  save_answer: true
+  save_prompt: true
+  save_context: true
+  save_metadata: true
+  save_used_config: true

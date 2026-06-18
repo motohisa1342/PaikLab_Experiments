@@ -1,0 +1,10 @@
+rag:
+  method: "light"
+  name: "lightrag"
+
+lightrag:
+  working_dir: "./storage/lightrag"
+  mode: "hybrid"
+
+index:
+  rebuild: false

@@ -1,0 +1,11 @@
+rag:
+  method: "vector"
+  name: "vectorrag"
+
+vector_store:
+  type: "chroma"
+  persist_dir: "./storage/chroma"
+  collection_name: "vectorrag_collection"
+
+index:
+  rebuild: false
