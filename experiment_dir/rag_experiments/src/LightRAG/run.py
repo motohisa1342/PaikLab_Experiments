@@ -1,7 +1,5 @@
 from __future__ import annotations
 
-import argparse
-import asyncio
 import inspect
 from pathlib import Path
 
@@ -46,19 +44,3 @@ async def run_query(
     else:
         print(response)
 
-
-def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Run a LightRAG query.")
-    parser.add_argument(
-        "--config",
-        default=None,
-        help="Path to lightrag.yaml. Defaults to rag_experiments/config/lightrag.yaml.",
-    )
-    parser.add_argument("--question", default=None, help="Question to ask LightRAG.")
-    parser.add_argument("--mode", default=None, help="Query mode: local/global/hybrid/naive.")
-    return parser.parse_args()
-
-
-if __name__ == "__main__":
-    args = parse_args()
-    asyncio.run(run_query(args.question, args.mode, args.config))

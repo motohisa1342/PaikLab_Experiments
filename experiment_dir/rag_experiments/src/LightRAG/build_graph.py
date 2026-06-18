@@ -1,8 +1,7 @@
 from __future__ import annotations
 
-import argparse
-import asyncio
 import shutil
+import time
 from pathlib import Path
 
 try:
@@ -41,21 +40,11 @@ async def build_graph(config_path: str | Path | None = None) -> None:
 
     print(f"Building LightRAG graph from: {source_path}")
     print(f"Graph output directory: {working_dir}")
+    start = time.perf_counter_ns()
     with open(source_path, "r", encoding=data_config.get("encoding", "utf-8")) as file:
         await rag.ainsert(file.read())
+    end = time.perf_counter_ns()
+    elapsed_time = end - start
     print("LightRAG graph build finished.")
+    print(f"Build Implementation time: {elapsed_time} ns")
 
-
-def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Build a LightRAG knowledge graph.")
-    parser.add_argument(
-        "--config",
-        default=None,
-        help="Path to lightrag.yaml. Defaults to rag_experiments/config/lightrag.yaml.",
-    )
-    return parser.parse_args()
-
-
-if __name__ == "__main__":
-    args = parse_args()
-    asyncio.run(build_graph(args.config))
